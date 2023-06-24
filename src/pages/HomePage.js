@@ -1,5 +1,5 @@
 import React, { Fragment } from "react";
-import MovieList from "../components/movie/MovieList";
+import MovieList from "components/movie/MovieList";
 
 const HomePage = () => {
   return (
